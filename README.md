@@ -1,4 +1,3 @@
-### README for Kata 5: Email Storage with SQLite
 
 # Kata 5: Email Storage with SQLite
 
